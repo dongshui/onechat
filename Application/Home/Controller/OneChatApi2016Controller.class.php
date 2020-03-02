@@ -74,10 +74,6 @@ class OneChatApi2016Controller extends Controller
     {
         $condition['u1.user_name'] = $reply_name;
         $condition['u2.user_name'] = $replyed_name;
-        // $result                    = M()->table('think_user u1,think_user u2')
-        //     ->field('u1.user_id as reply_id,u2.user_id as replyed_id')
-        //     ->where($condition)
-        //     ->select();
         $result = $this->userModel->getUserIdViaUserName($condition);
         return $result;
     }
