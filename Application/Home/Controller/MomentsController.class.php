@@ -46,5 +46,10 @@ class MomentsController extends CommonController
 		$map['user_name']     = $user_name;
 		$user_id              = $this->userModel->getUserId($map);
 		$list                 = $this->momentModel->getNews($user_id);
+		$map1['requested_id'] = $user_id;
+		$map1['state']        = 1;
+		$result               = $this->friendRuquestModel->getFriendRequest($map1);
+		$num                  = count($list) + count($result);
+		echo json_encode(array("number" => $num));
 	}
 }

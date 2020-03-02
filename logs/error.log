@@ -255,3 +255,8 @@
 [Mon Mar 02 04:09:27 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/favicon.ico, referer: http://www.onechat.com/index.php/Home/Moments/loadNews
 [Mon Mar 02 04:09:47 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/maps
 [Mon Mar 02 04:09:47 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.map
+[Mon Mar 02 17:51:42 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/favicon.ico, referer: http://www.onechat.com/index.php/Home/Moments/loadNews
+[Mon Mar 02 17:51:53 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/maps
+[Mon Mar 02 17:51:53 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.map
+[Mon Mar 02 17:53:51 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/maps
+[Mon Mar 02 17:53:51 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.map
