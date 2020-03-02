@@ -1,0 +1,457 @@
+[ 2020-03-02T04:09:27+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001937s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0121s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0046s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0054s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0008s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0005s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:09:38+08:00 ] 192.168.43.81 /index.php/Home/Moments/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000707s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0009s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /var/www/onechat/Application/Home/Controller/MomentsController.class.php 第 8 行.
+SQL: SELECT `avatar` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0004s ]
+SQL: CALL proc_MomentByFieldsSelect() [ RunTime:0.0045s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000130s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021219s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021281s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000903s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001154s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001196s ]
+
+[ 2020-03-02T04:09:46+08:00 ] 192.168.43.81 /index.php/Home/Moments/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000352s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0008s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /var/www/onechat/Application/Home/Controller/MomentsController.class.php 第 8 行.
+SQL: SELECT `avatar` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0004s ]
+SQL: CALL proc_MomentByFieldsSelect() [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000194s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000262s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010712s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010762s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000193s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2020-03-02T04:09:47+08:00 ] 192.168.43.81 /index.php/Home/Moments/getRollingWall
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0014s ]
+ERR: 非法操作:getRollingWall
+
+[ 2020-03-02T04:09:47+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001061s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0016s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0007s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:10:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0006s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0002s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:11:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0005s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0002s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:12:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0005s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0002s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:13:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0005s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0003s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:14:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0005s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0002s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:15:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0009s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0004s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:16:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000538s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0008s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0002s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:17:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0007s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0003s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:18:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0005s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0002s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:19:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000361s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0008s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0003s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:20:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0006s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0002s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:21:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0009s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0003s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:22:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0010s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0003s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:23:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0006s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0005s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:24:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0011s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0003s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:25:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0008s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0003s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:26:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0010s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0003s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:27:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0008s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0003s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:28:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0006s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0002s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:29:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0005s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0003s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:30:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0006s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0002s ]
+ERR: Think\Model:getNews方法不存在！
+
+[ 2020-03-02T04:31:48+08:00 ] 192.168.43.81 /index.php/Home/Moments/loadNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+SQL: SHOW COLUMNS FROM `think_moment` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `think_friend_request` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_friend` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_comment` [ RunTime:0.0007s ]
+SQL: SELECT `user_id` FROM `think_user` WHERE `user_name` = 'user1' LIMIT 1   [ RunTime:0.0003s ]
+ERR: Think\Model:getNews方法不存在！
+

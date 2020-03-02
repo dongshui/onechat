@@ -1,0 +1,257 @@
+[Mon Feb 24 22:28:47 2020] [error] [client 192.168.43.81] script '/var/www/onechat/index.php' not found or unable to stat
+[Mon Feb 24 22:28:48 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/favicon.ico, referer: http://www.onechat.com/index.php/Home/Moments/getRollingWall
+[Mon Feb 24 22:28:54 2020] [error] [client 192.168.43.81] script '/var/www/onechat/index.php' not found or unable to stat
+[Tue Feb 25 14:32:10 2020] [error] [client 192.168.43.81] script '/var/www/onechat/index.php' not found or unable to stat
+[Tue Feb 25 14:32:10 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/favicon.ico, referer: http://www.onechat.com/index.php/
+[Tue Feb 25 14:32:11 2020] [error] [client 192.168.43.81] script '/var/www/onechat/index.php' not found or unable to stat
+[Tue Feb 25 14:32:12 2020] [error] [client 192.168.43.81] script '/var/www/onechat/index.php' not found or unable to stat
+[Tue Feb 25 14:32:23 2020] [error] [client 192.168.43.81] Directory index forbidden by Options directive: /var/www/onechat/
+[Tue Feb 25 14:46:44 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/favicon.ico, referer: http://www.onechat.com/
+[Tue Feb 25 14:46:44 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/favicon.ico, referer: http://www.onechat.com/
+[Tue Feb 25 14:46:45 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/favicon.ico, referer: http://www.onechat.com/
+[Wed Feb 26 23:27:09 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/favicon.ico, referer: http://www.onechat.com/
+[Thu Feb 27 13:52:56 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/favicon.ico, referer: http://www.onechat.com/
+[Thu Feb 27 14:16:13 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/favicon.ico, referer: http://www.onechat.com/
+[Thu Feb 27 20:48:51 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css, referer: http://www.onechat.com/index.php/Home/Login/index.html
+[Thu Feb 27 20:48:51 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/preventOpenLinksInSafari.js, referer: http://www.onechat.com/index.php/Home/Login/index.html
+[Thu Feb 27 20:49:34 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css, referer: http://www.onechat.com/index.php/Home/Login/index.html
+[Thu Feb 27 20:56:01 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/jquery-3.1.0.min.js, referer: http://www.onechat.com/index.php/Home/Login/index.html
+[Thu Feb 27 20:56:01 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/jquery-3.1.0.min.js, referer: http://www.onechat.com/index.php/Home/Login/index.html
+[Thu Feb 27 21:03:07 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/avatar_img, referer: http://www.onechat.com/index.php/Home/Login/index.html
+[Thu Feb 27 21:03:56 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/avatar_img, referer: http://www.onechat.com/index.php/Home/Login/index.html
+[Thu Feb 27 21:11:41 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/avatar_img, referer: http://www.onechat.com/index.php/Home/Login/index.html
+[Thu Feb 27 21:37:56 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/avatar_img, referer: http://www.onechat.com/index.php/Home/Login/index.html
+[Thu Feb 27 21:38:24 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/avatar_img, referer: http://www.onechat.com/index.php/Home/Login/index.html
+[Fri Feb 28 21:17:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/avatar_img, referer: http://www.onechat.com/index.php/Home/Login/index.html
+[Fri Feb 28 21:18:08 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/avatar_img, referer: http://www.onechat.com/index.php/Home/Login/index.html
+[Fri Feb 28 21:22:51 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/avatar_img, referer: http://www.onechat.com/index.php/Home/Login/index.html
+[Fri Feb 28 22:20:05 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/avatar_img, referer: http://www.onechat.com/index.php/Home/Login/index.html
+[Fri Feb 28 22:21:27 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/avatar_img, referer: http://www.onechat.com/index.php/Home/Login/index.html
+[Fri Feb 28 22:28:08 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/favicon.ico, referer: http://www.onechat.com/index.php/Home/Register/index.html
+[Sat Feb 29 14:52:16 2020] [emerg] [client 192.168.43.81] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/onechat/index.php on line 8, referer: http://www.onechat.com/
+[Sat Feb 29 14:52:22 2020] [emerg] [client 192.168.43.81] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/onechat/index.php on line 8
+[Sat Feb 29 14:52:25 2020] [emerg] [client 192.168.43.81] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/onechat/index.php on line 8
+[Sat Feb 29 14:53:25 2020] [emerg] [client 192.168.43.81] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/onechat/index.php on line 8
+[Sat Feb 29 14:53:57 2020] [emerg] [client 192.168.43.81] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/onechat/index.php on line 19
+[Sat Feb 29 14:54:22 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/favicon.ico, referer: http://www.onechat.com/index.php/
+[Sat Feb 29 22:20:31 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/favicon.ico, referer: http://www.onechat.com/index.php/Home/Login/index.html
+[Sat Feb 29 22:31:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/default_head.jpg, referer: http://www.onechat.com/index.php/Home/Register/index.html
+[Sun Mar 01 13:14:11 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/favicon.ico, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:30:56 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/lib, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:30:56 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/moments.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:30:56 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/messages.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:30:56 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/lib, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:30:56 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/formatImg.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:30:56 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/pc.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:30:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/lib, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:30:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/lib, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:30:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/moments.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:30:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/pc.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:30:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/messages.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:32:40 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/messages.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:32:40 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/lib, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:32:40 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/lib, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:32:40 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/moments.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:32:40 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/pc.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:32:40 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/formatImg.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:03 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/lib, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:03 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/lib, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:03 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/moments.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:03 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/messages.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:03 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/pc.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:03 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/formatImg.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:05 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/lib, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:05 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/lib, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:05 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/moments.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:05 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/pc.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:05 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/messages.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:05 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/formatImg.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:18 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/lib/lightbox.min.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:18 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/moments.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:18 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/pc.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:18 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/formatImg.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:34 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/lib/lightbox.min.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:34 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/moments.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:34 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/pc.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:34 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/formatImg.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:43 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/lib/lightbox.min.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:43 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/pc.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:33:43 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/formatImg.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:34:01 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/pc.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:34:01 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/formatImg.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:34:01 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:34:01 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:34:01 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:34:01 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:35:03 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/pc.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:35:04 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:35:04 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:35:04 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:35:04 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:40:15 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/pc.css, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 16:40:15 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:40:15 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:40:15 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:40:15 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:40:45 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:40:45 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:40:45 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:40:45 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:42:24 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images/prev.png, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:42:24 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images/next.png, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:42:24 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images/loading.gif, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:42:34 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images/loading.gif, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:42:34 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images/prev.png, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:42:34 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images/next.png, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:42:44 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images/prev.png, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 16:42:44 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/css/images/next.png, referer: http://www.onechat.com/Public/Home/css/lib/lightbox.min.css
+[Sun Mar 01 17:03:42 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/icon_back.png, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:03:42 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/camera.png, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:03:42 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/swiper.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:03:42 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:03:42 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/jquery.lazyload.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:03:42 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/fastclick.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:03:42 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:03:42 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:03:42 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/loading.gif, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:03:42 2020] [error] [client 192.168.43.81] Directory index forbidden by Options directive: /var/www/onechat/avatar_img/, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:03:42 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/swiper.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:03:42 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:03:42 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/jquery.lazyload.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:03:42 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/fastclick.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:03:42 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:03:42 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:58:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/icon_back.png, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:58:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/camera.png, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:58:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/swiper.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:58:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:58:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/jquery.lazyload.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:58:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/fastclick.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:58:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:58:59 2020] [error] [client 192.168.43.81] Directory index forbidden by Options directive: /var/www/onechat/avatar_img/, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:58:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/loading.gif, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:58:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:58:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/swiper.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:58:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:58:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/jquery.lazyload.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:58:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/fastclick.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:58:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:58:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:09 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/icon_back.png, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:09 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/camera.png, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:09 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/swiper.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:09 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:09 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/jquery.lazyload.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:09 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/fastclick.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:09 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:09 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:09 2020] [error] [client 192.168.43.81] Directory index forbidden by Options directive: /var/www/onechat/avatar_img/, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:09 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/loading.gif, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:10 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/swiper.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:10 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:10 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/jquery.lazyload.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:10 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/fastclick.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:10 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:10 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:20 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/icon_back.png, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:20 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/camera.png, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:20 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/swiper.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:20 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:20 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/jquery.lazyload.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:20 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/fastclick.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:20 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:20 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:20 2020] [error] [client 192.168.43.81] Directory index forbidden by Options directive: /var/www/onechat/avatar_img/, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:20 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/loading.gif, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:20 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 17:59:20 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:41:32 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/icon_back.png, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:41:32 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/camera.png, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:41:32 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:41:32 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/jquery.lazyload.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:41:32 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/fastclick.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:41:32 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:41:32 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/swiper.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:41:32 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:41:32 2020] [error] [client 192.168.43.81] Directory index forbidden by Options directive: /var/www/onechat/avatar_img/, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:41:32 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/loading.gif, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:41:32 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:41:32 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/jquery.lazyload.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:41:32 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/fastclick.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:41:32 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:41:32 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:42:52 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/camera.png, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:42:52 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/swiper.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:42:52 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:42:52 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/jquery.lazyload.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:42:52 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/fastclick.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:42:52 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:42:52 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:42:52 2020] [error] [client 192.168.43.81] Directory index forbidden by Options directive: /var/www/onechat/avatar_img/, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:42:52 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/loading.gif, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:42:52 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/swiper.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:42:52 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:42:52 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/jquery.lazyload.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:42:52 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/fastclick.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:42:52 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:42:52 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:05 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/camera.png, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:05 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/jquery.lazyload.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:05 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/swiper.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:05 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:05 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/fastclick.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:05 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:05 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:05 2020] [error] [client 192.168.43.81] Directory index forbidden by Options directive: /var/www/onechat/avatar_img/, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:05 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/loading.gif, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:05 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/jquery.lazyload.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:05 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/fastclick.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:05 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:05 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:27 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/swiper.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:27 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:27 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/jquery.lazyload.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:27 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/fastclick.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:27 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:27 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:27 2020] [error] [client 192.168.43.81] Directory index forbidden by Options directive: /var/www/onechat/avatar_img/, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:27 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/loading.gif, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:27 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/swiper.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:27 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:27 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/jquery.lazyload.min.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:27 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/fastclick.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:27 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:27 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:44 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:44 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:44 2020] [error] [client 192.168.43.81] Directory index forbidden by Options directive: /var/www/onechat/avatar_img/, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:44 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/loading.gif, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:44 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/maps
+[Sun Mar 01 20:43:44 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:44 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:43:44 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.map
+[Sun Mar 01 20:44:01 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:44:01 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:44:01 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/loading.gif, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:44:01 2020] [error] [client 192.168.43.81] Directory index forbidden by Options directive: /var/www/onechat/avatar_img/, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:44:01 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/global.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:44:01 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/moments.js, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:44:01 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/maps
+[Sun Mar 01 20:44:01 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.map
+[Sun Mar 01 20:44:43 2020] [error] [client 192.168.43.81] Directory index forbidden by Options directive: /var/www/onechat/avatar_img/, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:44:43 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/img/default/loading.gif, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:44:43 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/maps
+[Sun Mar 01 20:44:43 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.map
+[Sun Mar 01 20:46:39 2020] [error] [client 192.168.43.81] Directory index forbidden by Options directive: /var/www/onechat/avatar_img/, referer: http://www.onechat.com/index.php/Home/Moments/index.html
+[Sun Mar 01 20:46:39 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/maps
+[Sun Mar 01 20:46:40 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.map
+[Sun Mar 01 21:34:13 2020] [error] [client 192.168.43.81] PHP Fatal error:  Class 'Home\\Controller\\CommonController' not found in /var/www/onechat/Application/Home/Controller/MomentsController.class.php on line 5, referer: http://www.onechat.com/index.php/Home/
+[Sun Mar 01 21:38:37 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/maps
+[Sun Mar 01 21:38:37 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.map
+[Sun Mar 01 22:39:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/maps
+[Sun Mar 01 22:39:59 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.map
+[Sun Mar 01 22:40:10 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/maps
+[Sun Mar 01 22:40:10 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.map
+[Mon Mar 02 04:09:27 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/favicon.ico, referer: http://www.onechat.com/index.php/Home/Moments/loadNews
+[Mon Mar 02 04:09:47 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/maps
+[Mon Mar 02 04:09:47 2020] [error] [client 192.168.43.81] File does not exist: /var/www/onechat/Public/Home/js/lib/lightbox.min.map
